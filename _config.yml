@@ -62,7 +62,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "伍億"
+  name   : "伍佚"
   avatar : "/assets/images/51.jpg"
   bio    : "巷子裡的雜貨店店員"
   links:
