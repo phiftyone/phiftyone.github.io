@@ -1,9 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About 51 Archives"
 ---
 
-
-伍億
-
-住在倫敦。
+寫下來不然會忘記。
