@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "伍佚"
   avatar : "/assets/images/51.jpg"
-  bio    : "巷子裡的雜貨店店員"
+  bio    : "在 Gail's 裡寫下的東西"
   links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
@@ -98,10 +98,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
