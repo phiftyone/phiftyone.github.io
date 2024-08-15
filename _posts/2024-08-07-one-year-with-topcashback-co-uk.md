@@ -1,5 +1,5 @@
 ---
-title: "TopCashback UK 一年使用紀錄"
+title: "TopCashback UK 介紹與使用經驗"
 categories:
   - Blog
 tags:
@@ -90,8 +90,6 @@ LOOKFANTASTIC, Boots, The Body Shop, ASOS, SEPHORA, Currys, Dell, 3, Carphone Wa
 歡迎使用[我的連結註冊 TopCashback][my-tcb-link]，註冊成功之後，會有 £10 的回饋 Bonus。
 
 但你也要自己另外累積 £10 的 Cashback 才能拿到這個 Bonus，所以自己斟酌，這邊是[沒有回饋的連結][tcb-link]。
-
-
 
 
 [my-tcb-link]:                https://www.topcashback.co.uk/ref/vincenttcb
