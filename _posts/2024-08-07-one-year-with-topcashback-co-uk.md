@@ -92,6 +92,13 @@ LOOKFANTASTIC, Boots, The Body Shop, ASOS, SEPHORA, Currys, Dell, 3, Carphone Wa
 但你也要自己另外累積 £10 的 Cashback 才能拿到這個 Bonus，所以自己斟酌，這邊是[沒有回饋的連結][tcb-link]。
 
 
+## 更新：次年回饋
+
+![1 year later](/assets/images/20240807/tcb-1yr-later.jpeg)
+
+在寫完這一篇文章後一年，我一樣維持著有回饋當作賺到的心態使用著 TopCashback，但回饋是大概只有第一年的一半，倒不是因為什麼消費降級還是沒錢，只是因為我註冊了另一個回饋網站，沒有全部消費都在 TopCashback 上而已。
+
+
 [my-tcb-link]:                https://www.topcashback.co.uk/ref/vincenttcb
 [tcb-link]:                   https://www.topcashback.co.uk/
 [tgc-link]:                   https://www.topcashback.co.uk/top-gift-cards/
