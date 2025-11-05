@@ -30,12 +30,14 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+theme: minimal-mistakes-jekyll
 
 include:
   - _pages
@@ -119,3 +121,7 @@ tag_archive:
   path: /tags/
 
 encoding: utf-8
+
+
+sass:
+  quiet_deps: true    # Disable printing deprecation warnings to terminal
