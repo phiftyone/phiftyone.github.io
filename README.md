@@ -2,8 +2,9 @@
 
 ## ⚠️HOW TO DEPLOY⚠️
 
-- GO TO Bug's Cloudflare, didn't transfer from bug to 51's cloudflare yet.
-- Drag and upload by directory `_site`.
+~~GO TO Bug's Cloudflare, didn't transfer from bug to 51's cloudflare yet.~~
+~~Drag and upload by directory `_site`.~~
+- Move to phiftyone cloudflare worker. so just push
   
 ---
 
